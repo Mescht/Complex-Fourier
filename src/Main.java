@@ -43,8 +43,8 @@ public class Main extends PApplet {
 	public void setup() {
 		
 		//load list of points
-//		readFile("fourier_portrait.txt");
-		readFile("bird.txt");
+		readFile("fourier_portrait.txt");
+//		readFile("bird.txt");
 		//calculate all the complex coefficients
 		coeffs = calculateCoeffs(renderdetail);
 		//set 0th coefficient to 0 to center the drawing
