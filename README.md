@@ -7,7 +7,7 @@ Creates drawings using the CFT.
 * [Processing](https://processing.org/)
 
 ## Usage
-It uses a list of points definining the discrete complex function as the input.
+The Input is defined as a discrete list of points describing the complex function to draw
 
 ## To-Do
 - SVG files as input
